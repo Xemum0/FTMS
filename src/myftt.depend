@@ -1,0 +1,355 @@
+# depslib dependency file v1.0
+1703360773 source:c:\users\msi gamer\documents\amosu\myftt\src\ball.cpp
+	"ball.h"
+
+1703360137 c:\users\msi gamer\documents\amosu\myftt\include\la.h
+	<math.h>
+
+1703355343 c:\users\msi gamer\documents\amosu\myftt\include\queries.hpp
+	<iostream>
+	<cctype>
+	<conio.h>
+	"DATE.hpp"
+
+1703357589 c:\users\msi gamer\documents\amosu\myftt\include\date.hpp
+	<iostream>
+
+1703357105 source:c:\users\msi gamer\documents\amosu\myftt\src\date.cpp
+	"DATE.hpp"
+
+1703355853 source:c:\users\msi gamer\documents\amosu\myftt\src\myclass.cpp
+	"myclass.h"
+
+1703355853 c:\users\msi gamer\documents\amosu\myftt\include\myclass.h
+
+1703322006 source:c:\users\msi gamer\documents\amosu\myftt\src\pbplots.cpp
+	"pbPlots.hpp"
+
+1703357937 c:\users\msi gamer\documents\amosu\myftt\include\pbplots.hpp
+	<cmath>
+	<cstring>
+	<vector>
+	<cwchar>
+
+1703356574 source:c:\users\msi gamer\documents\amosu\myftt\main.cpp
+	<iostream>
+	"RunProgram.hpp"
+
+1703355375 c:\users\msi gamer\documents\amosu\myftt\include\runprogram.hpp
+	"DataInsert.hpp"
+	<iostream>
+
+1703355434 c:\users\msi gamer\documents\amosu\myftt\include\datainsert.hpp
+	"bst.h"
+
+1703355446 c:\users\msi gamer\documents\amosu\myftt\include\bst.h
+	<iostream>
+	"game.hpp"
+
+1703367622 c:\users\msi gamer\documents\amosu\myftt\include\game.hpp
+	<iostream>
+	<vector>
+	<unordered_map>
+	<tuple>
+	"date.hpp"
+	"json.hpp"
+	"team.hpp"
+
+1703089858 c:\users\msi gamer\documents\amosu\myftt\include\json.hpp
+	<algorithm>
+	<cstddef>
+	<functional>
+	<initializer_list>
+	<iosfwd>
+	<iterator>
+	<memory>
+	<string>
+	<utility>
+	<vector>
+	<utility>
+	<algorithm>
+	<array>
+	<forward_list>
+	<iterator>
+	<map>
+	<string>
+	<tuple>
+	<type_traits>
+	<unordered_map>
+	<utility>
+	<valarray>
+	<cstddef>
+	<exception>
+	<numeric>
+	<stdexcept>
+	<string>
+	<vector>
+	<array>
+	<cstddef>
+	<cstdint>
+	<string>
+	<utility>
+	<type_traits>
+	<stdint.h>
+	<stdint.h>
+	<version>
+	<cstdlib>
+	<cassert>
+	<compare>
+	<cstddef>
+	<array>
+	<cstddef>
+	<type_traits>
+	<utility>
+	<limits>
+	<type_traits>
+	<utility>
+	<tuple>
+	<string>
+	<iterator>
+	<cstdint>
+	<map>
+	<memory>
+	<string>
+	<vector>
+	<cstring>
+	<string>
+	<utility>
+	<experimental/filesystem>
+	<filesystem>
+	<algorithm>
+	<iterator>
+	<string>
+	<tuple>
+	<type_traits>
+	<utility>
+	<valarray>
+	<vector>
+	<cstddef>
+	<iterator>
+	<string>
+	<tuple>
+	<utility>
+	<ranges>
+	<cstdint>
+	<tuple>
+	<utility>
+	<cstdint>
+	<cstddef>
+	<functional>
+	<algorithm>
+	<array>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<cstring>
+	<iterator>
+	<limits>
+	<string>
+	<utility>
+	<vector>
+	<array>
+	<cstddef>
+	<cstring>
+	<iterator>
+	<memory>
+	<numeric>
+	<string>
+	<type_traits>
+	<utility>
+	<cstdio>
+	<istream>
+	<cstddef>
+	<string>
+	<utility>
+	<vector>
+	<array>
+	<clocale>
+	<cstddef>
+	<cstdio>
+	<cstdlib>
+	<initializer_list>
+	<string>
+	<utility>
+	<vector>
+	<cstdint>
+	<utility>
+	<string>
+	<cmath>
+	<cstdint>
+	<functional>
+	<string>
+	<utility>
+	<vector>
+	<cstddef>
+	<limits>
+	<iterator>
+	<type_traits>
+	<cstddef>
+	<iterator>
+	<utility>
+	<type_traits>
+	<algorithm>
+	<cctype>
+	<cerrno>
+	<cstdlib>
+	<iosfwd>
+	<limits>
+	<numeric>
+	<string>
+	<utility>
+	<vector>
+	<initializer_list>
+	<utility>
+	<algorithm>
+	<array>
+	<map>
+	<cmath>
+	<cstdint>
+	<cstring>
+	<limits>
+	<string>
+	<utility>
+	<vector>
+	<algorithm>
+	<cstddef>
+	<iterator>
+	<memory>
+	<string>
+	<vector>
+	<ios>
+	<ostream>
+	<algorithm>
+	<array>
+	<clocale>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<limits>
+	<string>
+	<iomanip>
+	<type_traits>
+	<utility>
+	<array>
+	<cmath>
+	<cstdint>
+	<cstring>
+	<limits>
+	<type_traits>
+	<functional>
+	<initializer_list>
+	<iterator>
+	<memory>
+	<stdexcept>
+	<type_traits>
+	<utility>
+	<vector>
+	<any>
+	<string_view>
+
+1703355359 c:\users\msi gamer\documents\amosu\myftt\include\team.hpp
+	<iostream>
+	"player.hpp"
+	"json.hpp"
+
+1703355388 c:\users\msi gamer\documents\amosu\myftt\include\player.hpp
+	<iostream>
+	<vector>
+	"json.hpp"
+
+1703323999 source:c:\users\msi gamer\documents\amosu\myftt\src\bst.cpp
+	"BST.h"
+	<stack>
+
+1703360978 source:c:\users\msi gamer\documents\amosu\myftt\src\datainsert.cpp
+	"DataInsert.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<unistd.h>
+	<iomanip>
+	<chrono>
+	<fstream>
+	<thread>
+
+1703355658 source:c:\users\msi gamer\documents\amosu\myftt\src\player.cpp
+	<iostream>
+	"Player.hpp"
+	"team.hpp"
+
+1701188596 source:c:\users\msi gamer\documents\amosu\myftt\src\supportlib.cpp
+	"supportLib.hpp"
+
+1703357952 c:\users\msi gamer\documents\amosu\myftt\include\supportlib.hpp
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+
+1703137447 source:c:\users\msi gamer\documents\amosu\myftt\src\team.cpp
+	<iostream>
+	"Team.hpp"
+
+1703360087 source:c:\users\msi gamer\documents\amosu\myftt\src\runprogram.cpp
+	<iostream>
+	"RunProgram.hpp"
+	"./ball.h"
+
+1703358879 c:\users\msi gamer\documents\amosu\myftt\src\ball.cpp
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<thread>
+	"la.h"
+	<iostream>
+	<conio.h>
+	<vector>
+	<Windows.h>
+	"Queries.hpp"
+	<atomic>
+
+1703369769 source:c:\users\msi gamer\documents\amosu\myftt\src\game.cpp
+	"game.hpp"
+
+1703357105 c:\users\msi gamer\documents\amosu\myftt\src\date.cpp
+	"DATE.hpp"
+
+1703369818 source:c:\users\msi gamer\documents\amosu\myftt\src\queries.cpp
+	"Queries.hpp"
+	"team.hpp"
+	"Game.hpp"
+	"DataInsert.hpp"
+	<iostream>
+	<unistd.h>
+	<chrono>
+	<thread>
+	<algorithm>
+	<unordered_map>
+	<vector>
+	<ctime>
+	"pbPlots.hpp"
+	"supportLib.hpp"
+
+1703322006 c:\users\msi gamer\documents\amosu\myftt\src\pbplots.cpp
+	"pbPlots.hpp"
+
+1701188596 c:\users\msi gamer\documents\amosu\myftt\src\supportlib.cpp
+	"supportLib.hpp"
+
+1703360752 c:\users\msi gamer\documents\amosu\myftt\include\ball.h
+	<cassert>
+	<cstdio>
+	<cstring>
+	<unistd.h>
+	<thread>
+	"la.h"
+	"Queries.hpp"
+	<iostream>
+	<vector>
+	<Windows.h>
+	<conio.h>
+	<atomic>
+

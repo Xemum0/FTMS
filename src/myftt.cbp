@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="myftt" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/myftt" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/myftt" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/DATE.hpp" />
+		<Unit filename="include/DataInsert.hpp" />
+		<Unit filename="include/Queries.hpp" />
+		<Unit filename="include/RunProgram.hpp" />
+		<Unit filename="include/ball.h" />
+		<Unit filename="include/bst.h" />
+		<Unit filename="include/game.hpp" />
+		<Unit filename="include/json.hpp" />
+		<Unit filename="include/la.h" />
+		<Unit filename="include/myclass.h" />
+		<Unit filename="include/pbPlots.hpp" />
+		<Unit filename="include/player.hpp" />
+		<Unit filename="include/supportLib.hpp" />
+		<Unit filename="include/team.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/DATE.cpp" />
+		<Unit filename="src/DataInsert.cpp" />
+		<Unit filename="src/Queries.cpp" />
+		<Unit filename="src/RunProgram.cpp" />
+		<Unit filename="src/ball.cpp" />
+		<Unit filename="src/bst.cpp" />
+		<Unit filename="src/game.cpp" />
+		<Unit filename="src/myclass.cpp" />
+		<Unit filename="src/pbPlots.cpp" />
+		<Unit filename="src/player.cpp" />
+		<Unit filename="src/supportLib.cpp" />
+		<Unit filename="src/team.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
